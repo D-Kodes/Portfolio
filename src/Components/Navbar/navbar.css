@@ -1,0 +1,28 @@
+.navbar{
+    height: 10rem;
+    width: 100vw;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding : 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top:0;
+    z-index: 3;
+}
+
+.logo{
+    object-fit: cover;
+    height: 2rem;
+    width: 3rem;
+}
+.menuItems{
+    margin: 1rem;
+    cursor: pointer;
+}
+.menuItems:hover{
+    color: yellowgreen;
+    padding-bottom: 0.5rem;
+    border-bottom: solid yellowgreen;
+}
