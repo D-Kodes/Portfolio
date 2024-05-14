@@ -7,6 +7,7 @@ const Intro = () => {
       <div className="introContent">
         <span className="hello">Hello,</span>
         <span className="introText">I'm a Dinesh</span>
+        <p className="content"></p>
       </div>
       <img src={p} ait="image" className='bg'/>
     </section>
