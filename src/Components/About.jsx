@@ -15,7 +15,7 @@ const About = () => {
 
         <p className="text-xl mt-5">
         Hi, I am .
-        I'm a Full-Stack Software Engineer with 3+ years of experience in developing web applications. 
+        I'm a Full-Stack Software Engineer with 4+ years of experience in developing web applications. 
         <br /><br /> 
           Currently, I am employed at Infosys, where I work on enhancing and building new features for React-based
           websites. My technical expertise includes ReactJS, Node.js, JavaScript, HTML, CSS, and proficiency
