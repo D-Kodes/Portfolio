@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
-        Hi, I am .
+        Hi,
         I'm a Full-Stack Software Engineer with 4+ years of experience in developing web applications. 
         <br /><br /> 
           Currently, I am employed at Infosys, where I work on enhancing and building new features for React-based
